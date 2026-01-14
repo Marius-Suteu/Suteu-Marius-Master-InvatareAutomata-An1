@@ -1,0 +1,10 @@
+apple
+avocado
+banana
+black_berry
+cat
+dog
+guava
+mango
+olive
+pineapple
